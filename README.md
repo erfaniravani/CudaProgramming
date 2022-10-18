@@ -13,3 +13,7 @@ final_arr stores the results of the serial part and h_parallel stores the result
 128 threads in a grid:
 
 ![moz](https://github.com/erfaniravani/CudaProgramming/blob/4bd14c0071214b61c56b6f60659c3aa19d6c11c5/Screen%20Shot%202022-10-18%20at%201.47.20%20PM.png)
+
+1024 threads in a grid:
+
+![ss](https://github.com/erfaniravani/CudaProgramming/blob/7e048e1d9ac9d46756cc3fc814052781fe0f91b3/Screen%20Shot%202022-10-18%20at%201.52.25%20PM.png)
